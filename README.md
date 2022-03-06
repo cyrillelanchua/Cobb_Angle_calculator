@@ -15,6 +15,6 @@ https://drive.google.com/file/d/1Z5KWrITcb7mHlHMkqjJxiAcEdrr4oboL/view?usp=shari
 After downloading the weights, put it together with the .py files then run the Main.py.
 
 
-GUI
+Outputs
 ![alt text](https://github.com/cyrillelanchua/Cobb_Angle_calculator/blob/main/Documentation/Sample%201.JPG)
 ![alt text](https://github.com/cyrillelanchua/Cobb_Angle_calculator/blob/main/Documentation/Sample%202.JPG)
