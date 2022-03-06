@@ -1,7 +1,7 @@
 # Cobb_Angle_calculator
 Automatic cobb angle detection using the YOLO neural network. User would upload a picture of a Scoliosis X-ray and the device would automatically calculate the Cobb Angle of the Scoliosis.
 This was my thesis in college so code can be a bit messy. Code and the GUI needs improvement.
-Message me if you plan to use this program.
+Notify me if you plan to use this program.
 
 
 GUI was created using PyQt.
