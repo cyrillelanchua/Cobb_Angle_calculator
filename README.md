@@ -10,7 +10,7 @@ This version uses the YOLOv3 coded in python3.7 with opencv 3.4.3.
 
 
 The YOLOv3 weights can be downloaded here:
-https://drive.google.com/file/d/1Z5KWrITcb7mHlHMkqjJxiAcEdrr4oboL/view?usp=sharing
+https://drive.google.com/file/d/1C2VW-hfqjPcodpWL1xG5JEVaaeyV_rrb/view?usp=sharing
 
 After downloading the weights, put it together with the .py files then run the Main.py.
 
